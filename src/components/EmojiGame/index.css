@@ -1,0 +1,27 @@
+/* Write your code here. */
+.emojidiv {
+  display: flex;
+}
+div2 {
+  background-color: #6a59ff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.emoji-game-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.app-container {
+  background-color: rgb(107, 246, 60);
+  height: 100vh;
+}
+.emojis-list-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}

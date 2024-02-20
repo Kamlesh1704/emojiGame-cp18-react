@@ -1,0 +1,13 @@
+/* Write your code here. */
+li {
+  display: flex;
+  height: 19px;
+  width: 122px;
+  justify-content: center;
+  align-items: center;
+  background:none;
+}
+.emoji {
+  height: 80px;
+  width: 70px;
+}
